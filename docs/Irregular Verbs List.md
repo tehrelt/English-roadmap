@@ -1,7 +1,7 @@
 # COMMON IRREGULAR VERBS IN ENGLISH
 
-| Present | Past Simple | Past Participle |
-|---------|------------|-----------------|
+| Present/V1 | Past Simple/V2 | Past Participle/V3 |
+|------------|----------------|--------------------|
 |be | was, were | been |
 |beat | beat | beaten |
 |become | became | become |

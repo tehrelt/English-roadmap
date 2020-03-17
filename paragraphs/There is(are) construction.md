@@ -45,11 +45,11 @@
 
 После формального подлежащего *there* глагол to be может употребляться с модальными глаголами или с глаголами to seem, to appear в значении «казаться».
 
-> There *must* be somebody in the room.
+> There **must** be somebody in the room.
 >
 > Кажется, в комнате кто-то есть.
 >
-> There *seemed* to be a way out.
+> There **seemed** to be a way out.
 >
 > Казалось, выход (из положения) был.
 
@@ -101,6 +101,7 @@
 > 
 > Частица there в обороте there is/there are не имеет значения, т.е. значения наречия there — там, туда. Поэтому если в предложении с этим оборотом нужно передать значение «там» (т.е. употребить наречие there в смысловом значении), то это второе there ставится в конце предложения как обстоятельство места.
 > 
->> But there are no lemons there. Но там нет никаких лимонов.
+>> But there are no lemons there.
+>> Но там нет никаких лимонов.
 
 [Источник](https://catchenglish.ru/grammatika/there-is-there-are.html)
