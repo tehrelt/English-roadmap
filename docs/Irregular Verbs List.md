@@ -6,18 +6,31 @@ Base Form of Verb       Past Simple         Past Participle
 
 
 be (is, am, are)            was,                were been
+
 beat                        beat                beaten
+
 become                      became              become
+
 begin                       began               begun
+
 bend                        bent                bent
+
 bet                         bet                 bet
+
 bid                         bid                 bid
+
 bite                        bit                 bitten
+
 blow                        blew                blown
+
 break                       broke               broken
+
 bring                       brought             brought
+
 build                       built               built
+
 burn                        burned/**burnt**    burned/ **burnt**
+
 
 
 
