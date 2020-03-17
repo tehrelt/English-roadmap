@@ -1,2 +1,9 @@
 # English-roadmap
-I wanna learn english from beginner to intermediate
+Hello there!
+i'm 15 years old. I wanna learn english
+
+## Aim:
+1. Intermediate
+
+## Beginner check-list:
+1. 
