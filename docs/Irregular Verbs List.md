@@ -1,5 +1,22 @@
 # COMMON IRREGULAR VERBS IN ENGLISH
 
+| Present | Past Simple | Past Participle |
+|---------|:-----------:|----------------:|
+|    be     |     was, were        |      been           |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+|         |             |                 |
+
     V1                      V2                  V3
 
 Base Form of Verb       Past Simple         Past Participle
