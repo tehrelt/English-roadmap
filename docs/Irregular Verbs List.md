@@ -38,7 +38,6 @@
 |forgive |forgave |forgiven|
 |freeze |froze |frozen|
 |get |got |gotten|
-
 |give |gave |given|
 |go |went |gone|
 |grow |grew |grown|
