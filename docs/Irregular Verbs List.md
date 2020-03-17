@@ -61,40 +61,35 @@
 |mean |meant |meant|
 |meet |met |met|
 |pay |paid |paid|
-
-
-> TODO
->> put put put
->> read read read
->> ride rode ridden
->> ring rang rung
->> rise rose risen
->> run ran run
->> say said said
->> see saw seen
->> sell sold sold
->> send sent sent
->> show showed shown
->> shut shut shut
->> sing sang sung
->> sit sat sat
->> sleep slept slept
->> speak spoke spoken
->> spend spent spent
->> stand stood stood
->> swim swam swum
->> take took taken
->> teach taught taught
->> tear tore torn
->> tell told told
->> 
->> 
->> think thought thought
->> throw threw thrown
->> understand understood understood
->> wake woke woken
->> wear wore worn
->> win won won
->> write wrote written
+|put |put |put|
+|read |read |read|
+|ride |rode |ridden|
+|ring |rang |rung|
+|rise |rose |risen|
+|run |ran |run|
+|say |said |said|
+|see |saw |seen|
+|sell |sold |sold|
+|send |sent |sent|
+|show |showed |shown|
+|shut |shut |shut|
+|sing |sang |sung|
+|sit |sat |sat|
+|sleep |slept |slept|
+|speak |spoke |spoken|
+|spend |spent |spent|
+|stand |stood |stood|
+|swim |swam |swum|
+|take |took |taken|
+|teach |taught |taught|
+|tear |tore |torn|
+|tell |told |told|
+|think |thought |thought|
+|throw |threw |thrown|
+|understand |understood |understood|
+|wake |woke |woken|
+|wear |wore |worn|
+|win |won |won|
+|write |wrote |written|
 
 
