@@ -2,20 +2,20 @@
 
 | Present | Past Simple | Past Participle |
 |---------|:-----------:|----------------:|
-|    be     |     was, were        |      been           |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
-|         |             |                 |
+| be | was, were | been |
+| beat | beat | beaten |
+| become | became | become |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
     V1                      V2                  V3
 
